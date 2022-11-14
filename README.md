@@ -2,7 +2,7 @@
 
 Project Summary
 
-In this project I was tasked to raise various files with diverse extensions,
+In this project I was tasked with pulling up various files with diverse extensions,
 transformn and load them to a database for future use.
 Having in mind an incremental load of the prices files.
 
